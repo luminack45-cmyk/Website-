@@ -633,8 +633,6 @@ rgba(255,255,255,.01)
 );
 
 border:1px solid rgba(212,175,55,.15);
-
-backdrop-filter:blur(20px);
 }
 
 .mini-badge{
