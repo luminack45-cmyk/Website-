@@ -946,3 +946,17 @@ cursor:pointer;
 content-visibility:auto;
 contain-intrinsic-size:600px;
   }
+/* NOICE PRODUCT IMAGE */
+.noice-image{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:20px 0;
+}
+
+.noice-image img{
+    width:320px;
+    max-width:100%;
+    height:auto;
+    display:block;
+}
