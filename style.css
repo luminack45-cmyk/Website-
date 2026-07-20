@@ -955,8 +955,8 @@ contain-intrinsic-size:600px;
 }
 
 .noice-image img{
-    width:420px;
-    max-width:100%;
-    height:auto;
+    width:420px !important;
+    max-width:100% !important;
+    height:auto !important;
     display:block;
 }
